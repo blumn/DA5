@@ -1,11 +1,3 @@
-/*
- * stepper_motor_controlling.c
- *
- * Created: 20-Apr-16 10:38:51 AM
- *  Author: KHAN4201
- */ 
-
-
 #include<avr/io.h>
 #define F_CPU 8000000ul
 #include<util/delay.h>
