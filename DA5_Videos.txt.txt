@@ -1,0 +1,5 @@
+DC Motor : http://www.youtube.com/watch?v=TbV1f2DTYY4
+
+Stepper Motor : http://www.youtube.com/watch?v=JhbdgfCZ-FE
+
+Servo Motor : http://www.youtube.com/watch?v=4j1h24etm4Q
