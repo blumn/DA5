@@ -28,7 +28,7 @@ int main(void)
 		value=ADC_read(0);
 		if(value<1)
 		value=1;
-		for(int j=0;j<20;j++)
+		for(int j=0;j<500;j++)
 		{
 		PORTB|=1<<motor;
 		for (int i=0;i<value+1000;i++)
